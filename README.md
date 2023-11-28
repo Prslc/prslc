@@ -1,2 +1,2 @@
 ## Hello I'm prslc
- I is a student 
+ I am a student 
