@@ -1,7 +1,3 @@
-## Hello I'm prslc
-
- I am a student
-
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/prslc/github-readme-stats#gh-dark-mode-only)
 
 <picture>
