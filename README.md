@@ -9,4 +9,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&role=OWNER,ORGANIZATION_MEMBER&langs_count=10">
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prslc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=prslc)](https://github.com/anuraghazra/github-readme-stats)
