@@ -3,4 +3,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&role=OWNER,ORGANIZATION_MEMBER">
 </picture>
 
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=codeSTACKr#gh-dark-mode-only,include_all_commits)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+  <img src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR">
+</picture>
+
