@@ -4,6 +4,6 @@
 </picture>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&theme=onedark&card_width=465px&hide=html">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&card_width=465px&hide=html">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&theme=onedark&card_width=465px&hide=html,css,javascript">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&card_width=465px&hide=html,css,javascript">
 </picture>
