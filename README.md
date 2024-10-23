@@ -1,8 +1,6 @@
 ### _Hi there 👋, I'm PrsTest._
-<div style="display: flex; justify-content: space-between; align-items: start;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight" width="48%" height="200">
-  <img src="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight" width="48%" height="200">
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight)
 
 ### Skills 💻
 I have some experience with:
