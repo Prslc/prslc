@@ -1,6 +1,6 @@
 ### _Hi there 👋, I'm PrsTest._
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=500) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=300) 
 
 ### Skills 💻
 I have some experience with:
