@@ -1,8 +1,8 @@
 ### _Hi there 👋, I'm PrsTest._
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400#gh-dark-mode-only) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400#gh-light-mode-only) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400#gh-light-mode-only) 
 
 ### Skills 💻
 I have some experience with:
