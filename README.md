@@ -1,6 +1,8 @@
 ### _Hi there 👋, I'm PrsTest._
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400#gh-dark-mode-only) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400#gh-light-mode-only) 
 
 ### Skills 💻
 I have some experience with:
@@ -16,6 +18,3 @@ I have some experience with:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-## Visit My Vercel Site
-[![Visit my Vercel site](https://github-personal-data.vercel.app/)
