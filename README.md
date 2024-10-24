@@ -1,8 +1,16 @@
 ### _Hi there 👋, I'm PrsTest._
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400#gh-dark-mode-only) 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400#gh-light-mode-only) 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400">
+</picture>
+
 
 ### Skills 💻
 I have some experience with:
