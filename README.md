@@ -1,6 +1,6 @@
 ### _Hi there 👋, I'm PrsTest._
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+pages;I'm+a+software+engineering+student)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Welcome+to+my+GitHub+page;I'm+A+software+engineering+student)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight&card_width=400&hide_border=true">
