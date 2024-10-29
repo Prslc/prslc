@@ -1,4 +1,7 @@
 ### _Hi there 👋, I'm PrsTest._
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+pages;I'm+a+software+engineering+student)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight&card_width=400&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400&hide_border=true">
