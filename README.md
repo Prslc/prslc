@@ -6,9 +6,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400"width="435">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="435">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="435">
 </picture>
 
 
