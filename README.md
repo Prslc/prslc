@@ -1,14 +1,14 @@
 ### _Hi there 👋, I'm PrsTest._
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight&card_width=400">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight&card_width=400&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400&hide_border=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400&hide_border=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400"width="436">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="436">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="436">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&theme=tokyonight&card_width=400"width="436&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="436&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="436&hide_border=true">
 </picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prstest&theme=react-dark&hide_border=true)
