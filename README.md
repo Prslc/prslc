@@ -1,8 +1,8 @@
 ### _Hi there 👋, I'm PrsTest._
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&theme=tokyonight&card_width=400">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prstest&show_icons=true&card_width=400">
 </picture>
 
 <picture>
