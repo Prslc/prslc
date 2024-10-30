@@ -23,9 +23,7 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prstest&layout=compact&card_width=400"width="436&hide_border=true">
 </picture>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prstest&theme=react-dark&hide_border=true)
-
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prstest&theme=react-dark&hide_border=true&bg_color=transparent)
 
 
 ### Skills 💻
