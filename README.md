@@ -11,17 +11,27 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Welcome+to+my+GitHub+page;I'm+A+software+engineering+student)](https://git.io/typing-svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true">
-</picture>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true" width="400">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true">
+          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400&hide_border=true" width="400">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400"width="436&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400"width="436&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&card_width=400"width="436&hide_border=true">
-</picture>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent)
 
