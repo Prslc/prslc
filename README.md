@@ -5,11 +5,16 @@
 [4] https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#%E5%A6%82%E4%BD%95%E5%AE%9A%E5%88%B6
 [5] https://github.com/justjavac/github-dark-light-theme
 [6] https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to
+[7] https://count.kjchmc.cn
 --> 
+
+<div align="center">
 
 ## _Hi there 👋, I'm Prslc._
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Welcome+to+my+GitHub+page;I'm+A+software+engineering+student)](https://git.io/typing-svg)
+<br>
+<img src="https://count.kjchmc.cn/get/@prslc"/>
 
 <div align="center">
   <table>
@@ -32,12 +37,15 @@
   </table>
 </div>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent)
 
+## My Devices:
+![Phone](https://img.shields.io/badge/REDMI%20K40S-orange?logo=android)
+![Lenovo Xiaoxin Air 14](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?logo=lenovo)
 
 ### Skills 💻
-I have some experience with:
+Programming languages I've learned:
 
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -50,3 +58,5 @@ I have some experience with:
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</div>
