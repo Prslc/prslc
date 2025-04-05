@@ -39,20 +39,23 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
 
-
 ## Skills 💻
 Programming languages I've learned:
 
-![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-red?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/>
+<img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/SQL%20Server-red?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
 
+
+## My Devices
+<img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?logo=android"/>
+<img height="26" src="https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?logo=lenovo"/>
 </div>
