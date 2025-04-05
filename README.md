@@ -40,10 +40,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
 
 
-## My Devices:
-![Phone](https://img.shields.io/badge/REDMI%20K40S-orange?logo=android)
-![Lenovo Xiaoxin Air 14](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?logo=lenovo)
-
 ## Skills 💻
 Programming languages I've learned:
 
