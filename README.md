@@ -10,7 +10,7 @@
 
 <div align="center">
 
-## _Hi there 👋, I'm Prslc._
+# _Hi there 👋, I'm Prslc._
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Welcome+to+my+GitHub+page;I'm+A+software+engineering+student)](https://git.io/typing-svg)
 <br>
@@ -44,7 +44,7 @@
 ![Phone](https://img.shields.io/badge/REDMI%20K40S-orange?logo=android)
 ![Lenovo Xiaoxin Air 14](https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?logo=lenovo)
 
-### Skills 💻
+## Skills 💻
 Programming languages I've learned:
 
 ![C](https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white)
