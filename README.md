@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Welcome+to+my+GitHub+page;I'm+A+software+engineering+student)](https://git.io/typing-svg)
 <br>
-<img src="https://count.kjchmc.cn/get/@prslc"/>
+<img src="https://count.kjchmc.cn/get/@prslc?theme=rule34"/>
 
 <div align="center">
   <table>
