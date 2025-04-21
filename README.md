@@ -39,7 +39,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
 
-## Skills 💻
+## Skills
 
 <img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/>
