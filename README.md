@@ -49,7 +49,7 @@
 <img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
-
+<img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 
 ## My Devices
 <img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=android"/>
