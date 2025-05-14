@@ -9,14 +9,6 @@
 --> 
 
 <div align="center">
-
-# _Hi there 👋, I'm Prslc._
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=435&lines=Welcome+to+my+GitHub+page;I'm+A+software+engineering+student)](https://git.io/typing-svg)
-<br>
-<img src="https://count.kjchmc.cn/get/@prslc?theme=rule34"/>
-
-<div align="center">
   <table>
     <tr>
       <td>
@@ -35,23 +27,27 @@
       </td>
     </tr>
   </table>
-</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
 
-## Skills
+## Using language
 
 <img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/>
 <img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
+
+## Learning languages
+<img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
 
 ## My Devices
 <img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=android"/>
 <img height="26" src="https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?style=flat-square&logo=lenovo"/>
+
+<br>
+<img src="https://count.kjchmc.cn/get/@prslc?theme=rule34"/>
 </div>
