@@ -43,6 +43,7 @@
 ## Learning languages
 <img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
+<img height="26" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/>
 
 ## My Devices
 <img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=android"/>
