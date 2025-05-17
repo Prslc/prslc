@@ -28,27 +28,34 @@
     </tr>
   </table>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prslc&theme=github-compact&hide_border=true&bg_color=transparent" alt="Activity Graph">
+</picture>
 
 ## Using language
 
-<img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black"/>
-<img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white"/>
+<picture><img height="26" src="https://img.shields.io/badge/C-blue?style=flat-square&logo=c&logoColor=white" alt="C"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white" alt="Python"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS"/></picture>
 
 ## Learning languages
-<img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/>
-<img height="26" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white"/>
+
+<picture><img height="26" src="https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></picture>
 
 ## My Devices
-<img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=android"/>
-<img height="26" src="https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?style=flat-square&logo=lenovo"/>
+
+<picture><img height="26" src="https://img.shields.io/badge/REDMI%20K40S-red?style=flat-square&logo=android" alt="REDMI K40S"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/Lenovo%20Xiaoxin%20Air%2014-blue?style=flat-square&logo=lenovo" alt="Lenovo Xiaoxin Air 14"/></picture>
 
 <br>
-<img src="https://count.kjchmc.cn/get/@prslc?theme=rule34"/>
-</div>
+
+<picture>
+  <img src="https://count.kjchmc.cn/get/@prslc?theme=rule34" alt="Visitor Count">
+</picture>
