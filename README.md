@@ -11,13 +11,13 @@
 <div align="center">
   <table>
     <tr>
-        <td>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="400">
-  </picture>
-</td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&theme=tokyonight&card_width=400&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true">
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=prslc&show_icons=true&card_width=400&hide_border=true" width="400">
+        </picture>
+      </td>
       <td>
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=prslc&layout=compact&theme=tokyonight&card_width=400&hide_border=true">
