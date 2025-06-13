@@ -41,7 +41,7 @@
 <picture><img height="26" src="https://img.shields.io/badge/Java-red?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/Shell-black?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/></picture>
 <picture><img height="26" src="https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></picture>
-<picture><img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css3&logoColor=white" alt="CSS"/></picture>
+<picture><img height="26" src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=white" alt="CSS"/></picture>
 
 ## Learning languages
 
