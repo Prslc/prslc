@@ -59,5 +59,5 @@ src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=
 <br>
 
 <picture>
-  <img src="https://count.getloli.com/@github-Prslc" alt=":name" />
+  <img src="https://count.getloli.com/@github-Prslc?theme=rule34" />
 </picture>
