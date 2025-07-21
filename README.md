@@ -5,7 +5,7 @@
 [4] https://www.peterjxl.com/Git/GitHub-Profile-Beautify/#%E5%A6%82%E4%BD%95%E5%AE%9A%E5%88%B6
 [5] https://github.com/justjavac/github-dark-light-theme
 [6] https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#specifying-the-theme-an-image-is-shown-to
-[7] https://count.kjchmc.cn
+[7] https://count.getloli.com
 --> 
 
 <div align="center">
@@ -59,5 +59,5 @@ src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=
 <br>
 
 <picture>
-  <img src="http://count.kjchmc.cn/get/@prslc?theme=rule34" alt="Visitor Count">
+  <img src="https://count.getloli.com/@github-Prslc" alt=":name" />
 </picture>
