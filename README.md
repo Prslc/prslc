@@ -59,5 +59,5 @@ src="https://img.shields.io/badge/CSS-blue?style=flat-square&logo=css&logoColor=
 <br>
 
 <picture>
-  <img src="https://count.kjchmc.cn/get/@prslc?theme=rule34" alt="Visitor Count">
+  <img src="http://count.kjchmc.cn/get/@prslc?theme=rule34" alt="Visitor Count">
 </picture>
